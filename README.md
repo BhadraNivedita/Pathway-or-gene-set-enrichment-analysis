@@ -64,4 +64,11 @@ https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/
 
 https://rpubs.com/jrgonzalezISGlobal/enrichment
 
+3. LIGER
+   Tutorial: https://github.com/JEFworks/liger
+
+4. GSEA in Python (GSEAPY: Gene Set Enrichment Analysis in Python)
+   https://gseapy.readthedocs.io/en/latest/introduction.html?ck_subscriber_id=2225048918&utm_source=convertkit&utm_medium=email&utm_campaign=Resending%3A+15+links+for+gene+set+enrichment+analysis%21%20-%2011766833#gseapy-prerank-module-output
+   Youtube demonstration: https://www.youtube.com/watch?v=yOQcrUMCALw
+
 
