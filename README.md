@@ -19,4 +19,31 @@ Reduced Multiple Testing: Instead of testing each gene individually, it tests ge
 Biologically Meaningful Results: It enables researchers to focus on biologically relevant results, making it easier to generate hypotheses and prioritize further investigations.
 
 
+## Resources to understand Pathway analysis 
+
+1. Ten Years of Pathway Analysis: Current Approaches and Outstanding Challenges
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002375​
+
+2. Nine quick tips for pathway enrichment analysis
+
+​https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010348​
+
+3. http://ncbi.nlm.nih.gov/pmc/articles/PMC4561415/​
+
+Multiple sources of bias confound functional enrichment analysis of global -omics data
+
+4. Identifying significantly impacted pathways: a comprehensive review and assessmenthttps://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1790-4​
+
+5. Toward a gold standard for benchmarking gene set enrichment analysis https://academic.oup.com/bib/article/22/1/545/5722384​
+
+6. Recurrent functional misinterpretation of RNA-seq data caused by sample-specific gene length bias
+
+​https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000481​
+
+7. Hopw to chose background genes https://twitter.com/mdziemann/status/1626407797939384320​
+
+8. Blog post on GSEA https://crazyhottommy.blogspot.com/2016/08/gene-set-enrichment-analysis-gsea.html
+
+
 
