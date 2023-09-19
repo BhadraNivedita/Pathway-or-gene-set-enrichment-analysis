@@ -56,5 +56,7 @@ https://crazyhottommy.blogspot.com/2016/08/gene-set-enrichment-analysis-gsea.htm
 Documentation page: https://cran.r-project.org/web/packages/enrichR/vignettes/enrichR.html
 
 2.  clusterprofiler
-https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html 
+https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
+A tutorial on clusterprofiler with example: https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/
+
 
