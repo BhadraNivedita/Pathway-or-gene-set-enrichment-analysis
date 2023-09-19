@@ -57,6 +57,9 @@ Documentation page: https://cran.r-project.org/web/packages/enrichR/vignettes/en
 
 2.  clusterprofiler
 https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
-A tutorial on clusterprofiler with example: https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/
+
+Some tutorials on clusterprofiler with example: 
+https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/
+https://rpubs.com/jrgonzalezISGlobal/enrichment
 
 
