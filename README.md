@@ -42,10 +42,11 @@ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1790-4​
 
 ​https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000481​
 
-7. Hopw to choose background genes
+7. How to choose background genes
 https://twitter.com/mdziemann/status/1626407797939384320​
 
-8. Blog post on GSEA https://crazyhottommy.blogspot.com/2016/08/gene-set-enrichment-analysis-gsea.html 
+8. Blog post on GSEA
+https://crazyhottommy.blogspot.com/2016/08/gene-set-enrichment-analysis-gsea.html 
 
 
 
