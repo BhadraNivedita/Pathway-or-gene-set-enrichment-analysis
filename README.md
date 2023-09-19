@@ -50,5 +50,9 @@ https://twitter.com/mdziemann/status/1626407797939384320​
 8. Blog post on GSEA
 https://crazyhottommy.blogspot.com/2016/08/gene-set-enrichment-analysis-gsea.html 
 
-
+## Standard tools to analyze differentially expressed genes
+1. An R package: Enrichr https://maayanlab.cloud/Enrichr/
+  Documentation page: https://cran.r-project.org/web/packages/enrichR/vignettes/enrichR.html
+2.  clusterprofiler
+https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html 
 
