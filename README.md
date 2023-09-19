@@ -82,6 +82,8 @@ https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html?ck_
 
 https://bioconductor.statistik.tu-dortmund.de/packages/3.8/bioc/vignettes/enrichplot/inst/doc/enrichplot.html
 
+https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html
+
 ## Keypoints to remember while running a Pathway analysis.
 
 Running a pathway analysis can be a powerful way to gain insights into the biological significance of your genomics or omics data. Here are some key points to remember when conducting pathway analysis:
