@@ -72,6 +72,12 @@ https://rpubs.com/jrgonzalezISGlobal/enrichment
 
    Youtube demonstration: https://www.youtube.com/watch?v=yOQcrUMCALw (WIth Jupyter notebook : https://github.com/mousepixels/sanbomics_scripts/blob/main/GSEA_in_python.ipynb)
 
+
+
+5. msigdbr
+   
+https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html?ck_subscriber_id=2225048918&utm_source=convertkit&utm_medium=email&utm_campaign=Resending%3A+15+links+for+gene+set+enrichment+analysis%21%20-%2011766833   
+
    
 
 
