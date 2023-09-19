@@ -12,11 +12,11 @@ Pathway/Gene Set Enrichment Analysis is a statistical method used to interpret l
 ## Why Use Pathway/Gene Set Enrichment Analysis?
 Pathway/GSEA analysis offers several advantages:
 
-** Biological Interpretation: It provides biological context to high-throughput data by identifying the underlying biological processes and pathways affected.
+**Biological Interpretation:** It provides biological context to high-throughput data by identifying the underlying biological processes and pathways affected.
 
-** Reduced Multiple Testing: Instead of testing each gene individually, it tests gene sets, reducing the multiple testing burden and increasing statistical power.
+**Reduced Multiple Testing:** Instead of testing each gene individually, it tests gene sets, reducing the multiple testing burden and increasing statistical power.
 
-** Biologically Meaningful Results: It enables researchers to focus on biologically relevant results, making it easier to generate hypotheses and prioritize further investigations.
+**Biologically Meaningful Results:** It enables researchers to focus on biologically relevant results, making it easier to generate hypotheses and prioritize further investigations.
 
 
 ## Resources to understand Pathway analysis 
