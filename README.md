@@ -29,9 +29,9 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002375�
 
 ​https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010348​
 
-3. http://ncbi.nlm.nih.gov/pmc/articles/PMC4561415/​
+3. Multiple sources of bias confound functional enrichment analysis of global-omics data
+ http://ncbi.nlm.nih.gov/pmc/articles/PMC4561415/​
 
-Multiple sources of bias confound functional enrichment analysis of global-omics data
 
 4. Identifying significantly impacted pathways: a comprehensive review and assessment
 
