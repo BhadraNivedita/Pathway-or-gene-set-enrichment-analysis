@@ -36,7 +36,9 @@ Multiple sources of bias confound functional enrichment analysis of global-omics
 4. Identifying significantly impacted pathways: a comprehensive review and assessment
 
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1790-4​
-5. Toward a gold standard for benchmarking gene set enrichment analysis https://academic.oup.com/bib/article/22/1/545/5722384​
+
+5. Toward a gold standard for benchmarking gene set enrichment analysis
+https://academic.oup.com/bib/article/22/1/545/5722384​
 
 6. Recurrent functional misinterpretation of RNA-seq data caused by sample-specific gene length bias
 
