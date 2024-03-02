@@ -75,8 +75,27 @@ https://rpubs.com/jrgonzalezISGlobal/enrichment
 
 
 5. msigdbr
-   
 https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html?ck_subscriber_id=2225048918&utm_source=convertkit&utm_medium=email&utm_campaign=Resending%3A+15+links+for+gene+set+enrichment+analysis%21%20-%2011766833   
+
+
+6. DAVID (Database for Annotation, Visualization, and Integrated Discovery):
+DAVID is a widely used tool for functional annotation and enrichment analysis. It provides a comprehensive set of functional annotation tools for investigators to understand the biological meaning behind large gene lists.
+
+7.Metascape(https://metascape.org/gp/index.html#/main/step1):
+Metascape is an online platform that provides gene annotation and analysis services. It allows you to perform gene enrichment analysis, pathway analysis, and more.
+
+8. PANTHER (Protein ANalysis THrough Evolutionary Relationships):
+ PANTHER is a classification system that classifies genes by their functions. It also provides tools for gene set enrichment analysis.(https://www.pantherdb.org/)
+
+9. WebGestalt:
+WebGestalt is an integrated data mining toolkit for gene set analysis. It supports functional enrichment analysis and pathway analysis for multiple species(https://www.webgestalt.org/).
+
+10. Reactome:
+Reactome is a pathway database that provides tools for the visualization, interpretation, and analysis of pathway knowledge(https://reactome.org/).
+
+11. STRING:
+STRING is a database of known and predicted protein-protein interactions. While it is more focused on interaction networks, it also provides enrichment analysis functionalities().
+
 
 ### Visualization of Gene enrichment analysis
 
