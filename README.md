@@ -171,8 +171,8 @@ Description: ConsensusPathDB integrates various types of functional interactions
 Website: HI-III
 Description: HI-III is a comprehensive database of human protein-protein interactions, integrating information from various sources.
 
-#IntAct:
-Website: IntAct
+# IntAct:
+Website: https://www.ebi.ac.uk/intact/home
 Description: IntAct is a molecular interaction database that includes protein-protein interactions as well as other types of molecular interactions.
 
 
