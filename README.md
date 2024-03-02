@@ -147,31 +147,31 @@ Remember that pathway analysis is a valuable tool for generating hypotheses and 
 Website: STRING Database
 Description: STRING is a widely used database that provides protein-protein interaction information. It integrates both experimental and predicted interaction data.
 
-## BioGRID:
+### BioGRID:
 Website: [BioGRID](https://thebiogrid.org/)
 Description: BioGRID is a biological interaction database that provides curated protein-protein, genetic, and chemical interactions.
 
-## STRING App for Cytoscape:
+### STRING App for Cytoscape:
 Website: Cytoscape App Store
 Description: Cytoscape is a powerful network visualization tool, and the STRING App allows you to directly integrate STRING data into Cytoscape for network analysis.
 
 Search Tool for the Retrieval of Interacting Genes (STRING) R Package:
-R Package: STRINGdb
+### R Package: STRINGdb
 Description: If you prefer working in R, the STRINGdb package allows you to access STRING data and create protein-protein interaction networks within the R environment.
 
-#InnateDB:
+### InnateDB:
 Website: [InnateDB](https://www.innatedb.com/)
 Description: InnateDB focuses on interactions involved in the innate immune response. It includes both curated and predicted protein-protein interactions.
 
-#ConsensusPathDB:
+### ConsensusPathDB:
 Website: [ConsensusPathDB](http://cpdb.molgen.mpg.de/)
 Description: ConsensusPathDB integrates various types of functional interactions, including protein-protein interactions, and provides a platform for pathway analysis.
 
-## HI-III (Human Integrated Interaction Database):
+### HI-III (Human Integrated Interaction Database):
 Website: HI-III
 Description: HI-III is a comprehensive database of human protein-protein interactions, integrating information from various sources.
 
-## IntAct:
+### IntAct:
 Website: https://www.ebi.ac.uk/intact/home
 Description: IntAct is a molecular interaction database that includes protein-protein interactions as well as other types of molecular interactions.
 
